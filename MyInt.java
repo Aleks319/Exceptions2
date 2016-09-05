@@ -1,8 +1,5 @@
 package Lesson3;
 
-/**
- * Created by Sasha on 04.09.2016.
- */
 public class MyInt {
     public static int parseInt(String str)  {
         boolean isPositive = false;

@@ -1,8 +1,5 @@
 package Lesson3;
 
-/**
- * Created by Sasha on 05.09.2016.
- */
 public class ManySymbolsIntegerExeption extends IntegerExeption{
 
     private String message;
@@ -20,4 +17,3 @@ public class ManySymbolsIntegerExeption extends IntegerExeption{
         return message;
     }
 }
-
